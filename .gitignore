@@ -1,4 +1,4 @@
-/build
+./build
 /cect.egg-info
 __pycache__
 /site/

@@ -1,8 +1,8 @@
 site_name: Project Yggdrasil
 theme:
   name: material    
-  favicon: images/favicon.ico
-  logo: images/favicon.ico
+  favicon: images/Norse-yggdrasil-bold-400w.ico
+  logo: images/Norse-yggdrasil-bold-400w.ico
   palette:
     scheme: slate
   
